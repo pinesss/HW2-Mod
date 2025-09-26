@@ -13,7 +13,7 @@ import random
 VERSION = '1_11_2931_2'
 VERSION_PTR = '1_11_2931_10'
 
-RELEASE_URI = 'https://github.com/eitener/maethrillian/releases/latest/download/maethrillian.zip'
+RELEASE_URI = 'https://github.com/pinesss/HW2-Mod/releases/download/test/HW2.mod.zip'
 HW2_HOGAN_PATH = "Packages\\Microsoft.HoganThreshold_8wekyb3d8bbwe\\LocalState"
 
 class ModManager:
